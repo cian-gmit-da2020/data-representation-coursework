@@ -1,0 +1,32 @@
+<?xml version=”1.0” encoding=”UTF-8”?>
+
+<library>
+	<techBooks>
+		<book>
+			<isbn-10>1491957662</isbn-10>
+			<isbn-13>978-1491957660</isbn-13>
+			<title>Python for Data Analysis, 2e: Data Wrangling with Pandas, Numpy, and Ipython</title>
+			<author>Wes Mckinney</author>
+		</book>
+		<book>
+			<isbn-10>9781118162132</isbn-10>
+			<isbn-13>978-1118162132</isbn-13>
+			<title>Beginning XML</title>
+			<author>Joe Fawcett</author>
+		</book>
+	</techBooks>
+	<cookBooks>
+		<book>
+			<isbn-10>0241229782</isbn-10>
+			<isbn-13>978-0241229781</isbn-13>
+			<title>The Science of Cooking: Every Question Answered to Perfect your Cooking</title>
+			<author>Dr. Stuart Farrimond </author>
+		</book>
+		<book>
+			<isbn-10>1444780786</isbn-10>
+			<isbn-13>978-1444780789</isbn-13>
+			<title>Gordon Ramsay's Ultimate Home Cooking</title>
+			<author>Gordon Ramsay</author>
+		</book>	
+	</cookBooks>
+</library>
